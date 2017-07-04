@@ -23,7 +23,10 @@ public class Homework {
 
        System.out.println("\nВариант 1 (табличный):" + "\nИмя: " + name+ "\nГород:" + city  + "\nВозраст:" + age + "\nХобби:" + hobby);
 
-       System.out.println("\nВариант 2 (текстовый):" + "\nЧеловек по имени " + name + " живет в городе " + city + "\nЭтому человеку " + age + " лет и любит он заниматься " + hobby);
+
+       System.out.println("\nВариант 2 (текстовый):" + "\nЧеловек по имени " + name + " живет в городе " + city + "\nЭтому человеку " + age +
+               " лет и любит он заниматься " + hobby);
+
 
        System.out.println("\nВариант 3 (иной):" + '\n' + name + " - имя");
        System.out.println(city + " - город");
